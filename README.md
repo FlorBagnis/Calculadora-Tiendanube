@@ -52,4 +52,6 @@ La idea surgió a partir de mi experiencia como **Support Guru en Tiendanube**, 
 - 💻 Portfolio: https://florbagnis.github.io/Portfolio-FlorBagnis/
 - 📧 Email: florenciasoledadbagnis@gmail.com
 
-## 💳 Herramienta interna desarrollada para optimizar la operatoria y asistencia técnica en Tiendanube, combinando lógica frontend en JavaScript con mi experiencia en Customer Experience, Technical Support y resolución de consultas sobre medios de pago.
+<br>
+
+> 💳 Herramienta interna desarrollada para optimizar la operatoria y asistencia técnica en Tiendanube, combinando lógica frontend en JavaScript con mi experiencia en Customer Experience, Technical Support y resolución de consultas sobre medios de pago.
