@@ -10,6 +10,13 @@ La idea surgió a partir de mi experiencia como **Support Guru en Tiendanube**, 
 > ⚙️ **Propósito:** Agilizar el cálculo exacto de comisiones, cuotas y costos netos durante la atención en vivo a comerciantes, reduciendo tiempos de espera y consultas complejas sobre liquidaciones.
 ---
 
+<p align="center">
+  <a href="https://calculadora-tiendanube.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver_Demo-Abrir_Herramienta-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo" />
+  </a>
+</p>
+
+
 
 ### 💬 Validación e Impacto en Tiendanube
 
