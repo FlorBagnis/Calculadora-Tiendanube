@@ -7,20 +7,19 @@ Aplicación web desarrollada como proyecto personal para simular el cálculo de 
 
 La idea surgió a partir de mi experiencia como **Support Guru en Tiendanube**, donde asistía a comercios con consultas relacionadas con medios de pago, costos y liquidaciones. El objetivo fue crear una herramienta simple que facilitara este tipo de cálculos y, al mismo tiempo, poner en práctica mis conocimientos de desarrollo web.
 
-> 💡 **Impacto del proyecto:** Esta herramienta fue creada inicialmente como una iniciativa práctica de soporte interno para agilizar el cálculo de comisiones. Su utilidad sirvió como base funcional e inspiró la posterior incorporación de estas opciones dentro de las herramientas oficiales de **Tiendanube**.
+> ⚙️ **Propósito:** Agilizar el cálculo exacto de comisiones, cuotas y costos netos durante la atención en vivo a comerciantes, reduciendo tiempos de espera y consultas complejas sobre liquidaciones.
 ---
 
 
-### 💬 Validación interna
+### 💬 Validación e Impacto en Tiendanube
 
-<p align="center">
+<div align="center">
+  <img width="650" alt="Feedback" src="https://github.com/user-attachments/assets/52190d72-beb3-4c1a-9388-318a4dc9fb86" />
+</div>
 
-<img width="1197" height="826" alt="Feedback" src="https://github.com/user-attachments/assets/ba416a05-d058-4804-936f-39409d20eecd" />
+<br>
 
-</p>
-
-> *Validación del equipo de Producto reconociendo el impacto de la herramienta creada para el equipo de soporte y planteando su unificación con la calculadora oficial de Tiendanube.*
-
+> 💡 **Impacto real:** Validación directa del equipo de Producto reconociendo la iniciativa desarrollada para soporte y planteando la unificación de la lógica dentro de la calculadora oficial de **Tiendanube**.
 
 
 ## 🚀 Demo
