@@ -57,14 +57,14 @@ Durante este desarrollo se aplicaron y consolidaron conceptos como:
 
 ---
 
-## 👩‍💻 Autora
+### 👩‍💻 Autora
 
 **Florencia Bagnis**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis
-- 💻 Portfolio: https://florbagnis.github.io/Portfolio-FlorBagnis/
-- 📧 Email: florenciasoledadbagnis@gmail.com
-
+* 💼 [LinkedIn](https://www.linkedin.com/in/florencia-bagnis)
+* 💻 [Portfolio](https://florbagnis.github.io/Portfolio-FlorBagnis/)
+* 💌 [florenciasoledadbagnis@gmail.com](mailto:florenciasoledadbagnis@gmail.com)
+  
 <br>
 
 > 💳 Herramienta interna desarrollada para optimizar la operatoria y asistencia técnica en Tiendanube, combinando lógica frontend en JavaScript con mi experiencia en Customer Experience, Technical Support y resolución de consultas sobre medios de pago.
