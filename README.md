@@ -1,6 +1,7 @@
 # 💳 Calculadora de Tasas
 
-<img width="853" height="863" alt="Pagonube" src="https://github.com/user-attachments/assets/41577c4d-389e-40a5-9a75-890f381de521" />
+<img width="1305" height="884" alt="image" src="https://github.com/user-attachments/assets/17321de5-61f7-47ec-9517-e20f2c11bd60" />
+
 
 
 Aplicación web desarrollada como proyecto personal para simular el cálculo de tasas, cuotas y montos netos en ventas online.
