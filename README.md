@@ -10,6 +10,19 @@ La idea surgió a partir de mi experiencia como **Support Guru en Tiendanube**, 
 > 💡 **Impacto del proyecto:** Esta herramienta fue creada inicialmente como una iniciativa práctica de soporte interno para agilizar el cálculo de comisiones. Su utilidad sirvió como base funcional e inspiró la posterior incorporación de estas opciones dentro de las herramientas oficiales de **Tiendanube**.
 ---
 
+
+### 💬 Validación interna
+
+<p align="center">
+
+<img width="1197" height="826" alt="Feedback" src="https://github.com/user-attachments/assets/ba416a05-d058-4804-936f-39409d20eecd" />
+
+</p>
+
+> *Validación del equipo de Producto reconociendo el impacto de la herramienta creada para el equipo de soporte y planteando su unificación con la calculadora oficial de Tiendanube.*
+
+
+
 ## 🚀 Demo
 
 🔗 https://cuota-tasas-xxrt.vercel.app/
