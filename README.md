@@ -1,6 +1,6 @@
 # 💳 Calculadora de Tasas
 
-<img width="554" height="519" alt="image" src="https://github.com/user-attachments/assets/f4072db1-1a74-4329-b0ef-207b6e6c64a1" />
+<img width="853" height="863" alt="Pagonube" src="https://github.com/user-attachments/assets/41577c4d-389e-40a5-9a75-890f381de521" />
 
 
 Aplicación web desarrollada como proyecto personal para simular el cálculo de tasas, cuotas y montos netos en ventas online.
@@ -44,24 +44,12 @@ La idea surgió a partir de mi experiencia como **Support Guru en Tiendanube**, 
 
 ---
 
-## 📚 Objetivos del proyecto
-
-Durante el desarrollo de esta aplicación se trabajó en:
-
-- Manipulación del DOM.
-- Eventos con JavaScript.
-- Operaciones matemáticas y lógica de programación.
-- Validación de datos.
-- Diseño responsive.
-- Organización del código.
-- Buenas prácticas de desarrollo web.
-
----
-
 ## 👩‍💻 Autora
 
 **Florencia Bagnis**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis-5043aa152/
+- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis
 - 💻 Portfolio: https://florbagnis.github.io/Portfolio-FlorBagnis/
 - 📧 Email: florenciasoledadbagnis@gmail.com
+
+## 💳 Herramienta interna desarrollada para optimizar la operatoria y asistencia técnica en Tiendanube, combinando lógica frontend en JavaScript con mi experiencia en Customer Experience, Technical Support y resolución de consultas sobre medios de pago.
