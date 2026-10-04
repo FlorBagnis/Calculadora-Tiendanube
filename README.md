@@ -77,6 +77,16 @@ Durante este desarrollo se aplicaron y consolidaron conceptos como:
 
 ---
 
+
+¿Te sirvió? Dejale una ⭐ al repo.
+
+---
+
+## 📄 Licencia
+
+Distribuido bajo licencia MIT. Ver el archivo `LICENSE`.
+
+
 ### 👩‍💻 Autora
 
 **Florencia Bagnis**
